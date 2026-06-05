@@ -1,359 +1,90 @@
 <!-- ========================================================= -->
-<!--                     GITHUB PROFILE README                 -->
+<!--                  SIVA SUBRAMANIAN | GITHUB PROFILE        -->
+<!--       AI Engineer • Backend Developer • Agent Builder      -->
 <!-- ========================================================= -->
 
+<!-- Replace these placeholders before publishing:
+  YOUR_GITHUB_USERNAME
+  YOUR_LEETCODE_USERNAME
+  YOUR_LINKEDIN_USERNAME
+  YOUR_PORTFOLIO_LINK
+  YOUR_EMAIL
+-->
+
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Siva%20Subramanian&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Agentic%20Automation%20Builder&descAlignY=58&descSize=18" 
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f766e,100:06b6d4&height=245&section=header&text=Siva%20Subramanian&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Agentic%20Automation%20Builder&descAlignY=56&descSize=18"
+    alt="Siva Subramanian header"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Production-Grade+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;AI+Agents+%7C+RAG+%7C+Automation;Backend+Engineering+%7C+APIs+%7C+MLOps;Learning+Deeply%2C+Building+Consistently%2C+Shipping+Publicly" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Automation;Backend+APIs+%7C+Databases+%7C+MLOps;Learning+Deeply+%E2%80%A2+Building+Consistently+%E2%80%A2+Shipping+Publicly"
+    alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=00f7ff&labelColor=0f2027" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=00f7ff&labelColor=0f2027" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=06b6d4&labelColor=0f172a" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=06b6d4&labelColor=0f172a" alt="GitHub stars" />
 </p>
 
----
+<br />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" /> About Me
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+## 👋 About Me
+
+I am an **AI Engineer in progress** focused on building reliable, production-style systems using **Machine Learning, Deep Learning, LLMs, AI Agents, Backend Engineering, and MLOps**.
+
+My goal is to design, build, deploy, monitor, and scale intelligent applications that solve real-world problems — not just demos.
 
 ```txt
-AI Engineer in progress.
-Backend systems thinker.
-LLM, agent, and automation builder.
-Focused on production-grade engineering, not just demos.
+AI Engineer in progress
+Backend systems thinker
+LLM, RAG, and agent builder
+Focused on production-grade engineering
 ```
 
-I am a future-focused **AI Engineer** building strong foundations in **Machine Learning, Deep Learning, LLMs, AI Agents, Backend Engineering, and Production AI Systems**.
-
-My goal is to become an engineer who can design, build, deploy, monitor, and scale intelligent systems that solve real-world problems.
-
-> I believe great AI engineers do not only train models.  
-> They understand systems, design reliable APIs, manage data, optimize inference, monitor failures, and build products that users can actually trust.
-
----
-
-## 🧠 Core Focus Areas
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Large Language Models
-- Generative AI
-- AI Agents
-- Multi-Agent Systems
-- Prompt Engineering
-- Fine-Tuning
-- Embeddings
-- Vector Search
-- RAG Pipelines
-- AI Automation
-
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### ⚙️ Backend Engineering
-
-- REST APIs
-- FastAPI
-- Node.js
-- Express.js
-- Authentication
-- Authorization
-- Database Design
-- Caching
-- Message Queues
-- Microservices
-- Clean Architecture
-- Scalable System Design
-- Production APIs
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ MLOps & Deployment
-
-- Model Serving
-- Docker
-- CI/CD
-- Monitoring
-- Logging
-- Evaluation Pipelines
-- Dataset Versioning
-- Experiment Tracking
-- Cloud Deployment
-- Inference Optimization
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Engineering Mindset
-
-- First-Principles Thinking
-- Clean Code
-- System Design
-- Tradeoff Analysis
-- Debugging
-- Observability
-- Reliability
-- Security
-- Product Thinking
-- Continuous Learning
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
----
-
-### 🤖 AI / ML / Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</p>
-
----
-
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-6A1B9A?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-</p>
-
----
-
-### 🗄️ Databases & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Vector_Database-00C853?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-7F00FF?style=for-the-badge&logo=opensearch&logoColor=white" />
-</p>
-
----
-
-### ☁️ DevOps, Cloud & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,aws,gcp,vscode,postman" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-FF4088?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logging-263238?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
----
-
-## 📚 Currently Learning
+## 🎯 Current Direction
 
 ```yaml
-AI Engineering:
-  - Machine Learning Fundamentals
-  - Deep Learning with PyTorch
-  - Transformer Architecture
-  - LLM Application Development
-  - Retrieval-Augmented Generation
-  - AI Agent Orchestration
-  - Multi-Agent Systems
-  - LLM Evaluation
-  - Inference Optimization
+Primary Focus:
+  - AI Agents and Automation
+  - RAG and LLM Applications
+  - Backend APIs and Databases
+  - Production ML Systems
+  - System Design and MLOps
 
-Backend Engineering:
-  - FastAPI Production Patterns
-  - REST API Design
-  - Authentication and Authorization
-  - Database Schema Design
-  - PostgreSQL Internals
-  - Redis Caching
-  - Message Queues
-  - Microservices
-  - Distributed Systems
-  - Scalable System Design
-
-MLOps and Deployment:
-  - Docker
-  - CI/CD Pipelines
-  - Model Serving
-  - Monitoring
-  - Logging
-  - Cloud Deployment
-  - Experiment Tracking
-  - Evaluation Pipelines
+Engineering Values:
+  - Reliability
+  - Clean Architecture
+  - Observability
+  - Security
+  - Continuous Shipping
 ```
-
----
-
-## 🚀 Featured Project Ideas
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🤖 AI Agent Automation System
-
-An intelligent automation system using LLMs, tools, APIs, memory, and workflow orchestration to complete multi-step tasks.
-
-### Tech Stack
-
-```txt
-Python · FastAPI · LangGraph · OpenAI API
-PostgreSQL · Redis · Docker · GitHub Actions
-```
-
-### Features
-
-- Tool calling
-- Multi-step planning
-- Long-term memory
-- API integrations
-- Background jobs
-- Agent workflow orchestration
-- Logging and monitoring
-- Evaluation support
-
-</td>
-<td width="50%" valign="top">
-
-## 📚 RAG Knowledge Assistant
-
-A document-based AI assistant that answers questions from PDFs, notes, and private knowledge bases using retrieval-augmented generation.
-
-### Tech Stack
-
-```txt
-Python · FastAPI · Vector DB · Embeddings
-LLMs · PostgreSQL · Docker
-```
-
-### Features
-
-- PDF ingestion
-- Text chunking
-- Embedding generation
-- Semantic search
-- Source-grounded answers
-- Query rewriting
-- RAG evaluation pipeline
-- Document management
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## ⚙️ ML Model API
-
-A production-style machine learning API that exposes model predictions through clean REST endpoints.
-
-### Tech Stack
-
-```txt
-Python · Scikit-learn · FastAPI
-Docker · PostgreSQL · Pydantic
-```
-
-### Features
-
-- Model training pipeline
-- REST inference endpoint
-- Input validation
-- Error handling
-- Logging
-- Model versioning
-- Dockerized deployment
-- API documentation
-
-</td>
-<td width="50%" valign="top">
-
-## 🧠 AI Research Assistant
-
-An AI assistant for summarizing papers, extracting concepts, comparing methods, and creating structured study notes.
-
-### Tech Stack
-
-```txt
-LLMs · RAG · Python · FastAPI
-Vector DB · Streamlit · Embeddings
-```
-
-### Features
-
-- Research paper summarization
-- Concept extraction
-- Method comparison
-- Citation-aware answers
-- Study note generation
-- Paper search workflow
-- Knowledge base creation
 
 </td>
 </tr>
@@ -361,151 +92,298 @@ Vector DB · Streamlit · Embeddings
 
 ---
 
-## 🧩 Engineering Principles
+## 🧠 Engineering Focus
 
-```txt
-01. Understand the problem before writing code.
-02. Build simple systems before complex systems.
-03. Write readable, testable, maintainable code.
-04. Design APIs before implementing features.
-05. Prefer reliability over cleverness.
-06. Measure performance before optimizing.
-07. Make systems observable with logs and metrics.
-08. Secure systems by default.
-09. Automate repetitive work.
-10. Build real projects, not only tutorials.
-11. Learn fundamentals deeply.
-12. Ship, get feedback, and improve.
-```
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+
+### 🤖 AI Systems
+
+ML/DL  
+LLMs  
+RAG  
+Agents  
+Embeddings  
+Evaluation
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### ⚙️ Backend
+
+REST APIs  
+FastAPI  
+Node.js  
+Auth  
+Caching  
+Microservices
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### 🗄️ Data
+
+PostgreSQL  
+MongoDB  
+Redis  
+Vector DBs  
+Pipelines  
+Analytics
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### 🚀 MLOps
+
+Docker  
+CI/CD  
+Serving  
+Monitoring  
+Logging  
+Cloud
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏗️ My AI Engineering Roadmap
+## 🛠️ Tech Arsenal
 
-```mermaid
-graph TD;
-    A[Python Fundamentals] --> B[Data Structures & Algorithms]
-    B --> C[Backend APIs]
-    C --> D[Databases]
-    D --> E[System Design]
-    E --> F[Machine Learning]
-    F --> G[Deep Learning]
-    G --> H[Transformers]
-    H --> I[Large Language Models]
-    I --> J[RAG Systems]
-    J --> K[AI Agents]
-    K --> L[MLOps]
-    L --> M[Cloud Deployment]
-    M --> N[Production AI Systems]
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp" alt="Languages" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+
+### AI / ML / Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv" alt="AI ML stack" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="RAG" />
+
+### Backend, Databases & DevOps
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask,postgres,mongodb,mysql,redis,sqlite,docker,kubernetes,linux,git,github,githubactions,aws,gcp,vscode,postman" alt="Backend database devops stack" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/System_Design-6D28D9?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/Monitoring-DC2626?style=for-the-badge&logo=prometheus&logoColor=white" alt="Monitoring" />
+<img src="https://img.shields.io/badge/Vector_DB-059669?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Database" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Agent Automation Platform
+
+A production-style agent system that uses LLMs, tools, APIs, memory, and workflow orchestration to complete multi-step tasks.
+
+**Tech:** Python · FastAPI · LangGraph · PostgreSQL · Redis · Docker  
+**Focus:** Tool calling · Planning · Memory · Observability · Evaluation
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-agent-automation-platform">
+  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 RAG Knowledge Assistant
+
+A document-grounded AI assistant that answers from PDFs, notes, and private knowledge bases using retrieval-augmented generation.
+
+**Tech:** Python · FastAPI · Vector DB · Embeddings · LLMs · Docker  
+**Focus:** Ingestion · Chunking · Semantic Search · Citations · Evaluation
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/rag-knowledge-assistant">
+  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ ML Model Serving API
+
+A clean REST API for serving ML predictions with validation, logging, versioning, and Dockerized deployment.
+
+**Tech:** Python · Scikit-learn · FastAPI · Pydantic · Docker · PostgreSQL  
+**Focus:** Model serving · Input validation · Versioning · API documentation
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/ml-model-serving-api">
+  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Research Assistant
+
+An AI assistant for summarizing papers, extracting concepts, comparing methods, and generating structured study notes.
+
+**Tech:** LLMs · RAG · Python · FastAPI · Streamlit · Vector DB  
+**Focus:** Paper analysis · Method comparison · Notes · Research workflows
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-research-assistant">
+  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 LeetCode & Problem Solving
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 DSA Practice
+
+```txt
+Core Topics:
+Arrays · Strings · Hashing · Two Pointers
+Stacks · Queues · Trees · Graphs
+Dynamic Programming · Greedy · Backtracking
+Binary Search · Sliding Window · Heaps
 ```
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
+    alt="GitHub stats"
   />
-  <img 
-    width="49%" 
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" 
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
   />
 </p>
 
 <p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=3"
+    alt="GitHub trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution graph"
   />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏗️ AI Engineering Roadmap
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" 
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" 
-  />
-</p>
-
----
-
-## 🔥 What I Am Building Toward
-
-```txt
-A strong engineering portfolio with real, production-style projects:
-
-01. AI Agent Automation Platform
-02. RAG Knowledge Assistant
-03. ML Model Serving API
-04. Backend Microservice System
-05. Data Science Portfolio
-06. LLM Evaluation Toolkit
-07. AI Workflow Automation Tool
-08. System Design Notes Repository
-09. MLOps Deployment Pipeline
-10. Open-Source AI Engineering Tools
+```mermaid
+graph LR;
+    A[Python] --> B[DSA]
+    B --> C[Backend APIs]
+    C --> D[Databases]
+    D --> E[System Design]
+    E --> F[Machine Learning]
+    F --> G[Deep Learning]
+    G --> H[Transformers]
+    H --> I[LLM Apps]
+    I --> J[RAG]
+    J --> K[AI Agents]
+    K --> L[MLOps]
+    L --> M[Production AI Systems]
 ```
 
 ---
 
-## 🧪 Areas I Practice
+## 📌 Portfolio Strategy
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### AI Systems
+### Must-Have Repos
 
-- RAG
-- Agents
-- Tool Calling
-- Memory
-- Embeddings
-- Evaluation
-- Fine-Tuning
-- Inference
+- AI Agent Platform
+- RAG Assistant
+- ML Serving API
+- Backend API System
+- Data Science Portfolio
+- System Design Notes
 
 </td>
 <td width="33%" valign="top">
 
-### Backend Systems
+### Every Repo Should Have
 
-- APIs
-- Auth
-- Databases
-- Caching
-- Queues
-- Microservices
-- Clean Architecture
-- Performance
+- Architecture diagram
+- Setup instructions
+- API documentation
+- Environment variables
+- Docker support
+- Test instructions
+- Production notes
 
 </td>
 <td width="33%" valign="top">
 
-### Production Skills
+### What It Proves
 
-- Docker
-- CI/CD
-- Logging
-- Monitoring
-- Testing
-- Cloud
-- Security
-- Deployment
+- Engineering maturity
+- System design thinking
+- Deployment ability
+- Clean code habits
+- Problem solving
+- Real-world readiness
 
 </td>
 </tr>
@@ -513,94 +391,55 @@ A strong engineering portfolio with real, production-style projects:
 
 ---
 
-## 📝 Learning Notes
-
-I use GitHub to document my learning journey in AI engineering and backend development.
-
-```txt
-01. Python for Production Systems
-02. FastAPI Backend Development
-03. SQL and Database Design
-04. Machine Learning Fundamentals
-05. Deep Learning with PyTorch
-06. Transformer Architecture
-07. LLM Application Development
-08. RAG System Design
-09. AI Agents and Tool Calling
-10. Docker and Deployment
-11. System Design for AI Products
-12. MLOps and Model Monitoring
-```
-
----
-
 ## 🤝 Open To Collaborate On
 
-<p>
-  <img src="https://img.shields.io/badge/AI_Agents-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG_Systems-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Apps-FF007F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend_APIs-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-FF9800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_Source-000000?style=for-the-badge" />
-</p>
+<div align="center">
 
-I am interested in collaborating on:
+<img src="https://img.shields.io/badge/AI_Agents-06B6D4?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/RAG_Systems-7C3AED?style=for-the-badge" alt="RAG Systems" />
+<img src="https://img.shields.io/badge/LLM_Apps-DB2777?style=for-the-badge" alt="LLM Apps" />
+<img src="https://img.shields.io/badge/Backend_APIs-059669?style=for-the-badge" alt="Backend APIs" />
+<img src="https://img.shields.io/badge/MLOps-F97316?style=for-the-badge" alt="MLOps" />
+<img src="https://img.shields.io/badge/Open_Source-0F172A?style=for-the-badge" alt="Open Source" />
 
-- AI agent systems
-- LLM-powered applications
-- RAG-based assistants
-- Backend APIs for AI products
-- Workflow automation platforms
-- ML deployment projects
-- Developer productivity tools
-- Open-source AI engineering projects
+</div>
 
----
+<br />
 
-## 📌 Pinned Repository Strategy
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-To make this profile stronger, I want my pinned repositories to show practical engineering depth:
+### Build
 
-```txt
-1. AI Agent Automation System
-2. RAG Knowledge Assistant
-3. ML Model API
-4. FastAPI Backend Project
-5. Data Science Portfolio
-6. System Design Notes
-```
+AI products, APIs, automations, and practical tools.
 
-Each project should include:
+</td>
+<td align="center" width="33%">
 
-```txt
-README.md
-Architecture Diagram
-API Documentation
-Setup Instructions
-Environment Variables
-Docker Support
-Example Requests
-Testing Instructions
-Production Notes
-```
+### Learn
+
+System design, AI engineering, MLOps, and scalable architecture.
+
+</td>
+<td align="center" width="33%">
+
+### Ship
+
+Useful projects publicly with documentation and deployment.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚡ Developer Mindset
 
 ```txt
-Learn deeply.
-Build consistently.
-Ship publicly.
-Improve daily.
-Think in systems.
-Solve real problems.
+Learn deeply. Build consistently. Ship publicly.
+Think in systems. Measure tradeoffs. Solve real problems.
 ```
-
----
-
-## 💡 Quote I Follow
 
 > Great engineers do not just write code.  
 > They understand systems, design tradeoffs, solve problems, and build things that last.
@@ -611,23 +450,26 @@ Solve real problems.
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
+<p align="center">
+  <b>Thanks for visiting my profile. Let's build something useful.</b>
+</p>
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer" 
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f766e,100:020617&height=150&section=footer"
+    alt="Footer"
   />
 </p>
