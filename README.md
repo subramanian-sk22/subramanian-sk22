@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                  SIVA SUBRAMANIAN | GITHUB PROFILE        -->
+<!--                  SUBRAMANIAN K | GITHUB PROFILE        -->
 <!--       AI Engineer • Backend Developer • Agent Builder      -->
 <!-- ========================================================= -->
 
