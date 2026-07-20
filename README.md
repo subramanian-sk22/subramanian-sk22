@@ -14,7 +14,7 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f766e,100:06b6d4&height=245&section=header&text=Siva%20Subramanian&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Agentic%20Automation%20Builder&descAlignY=56&descSize=18"
-    alt="Siva Subramanian header"
+    alt="Subramanian K  header"
   />
 </p>
 
