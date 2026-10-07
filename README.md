@@ -8,7 +8,7 @@
 
 ## Capabilities
 
-<img src="assets/capabilities.svg" width="100%" alt="AI/ML, backend, architecture, automation"/>
+<img src="capabilities.svg" width="100%" alt="AI/ML, backend, architecture, automation"/>
 
 ## AI Stack
 
