@@ -59,7 +59,7 @@
 
 > Repository links are added per project as each repo goes public.
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Research
 
@@ -70,7 +70,7 @@ Experiment log format: question, method, result. Entries are added only when a r
 | What accuracy ceiling does a small CNN reach on the handwriting set? | Baseline, then augmentation and regularization sweeps | In progress |
 | What does local inference cost in latency and quality versus hosted models? | Benchmark a fixed prompt set on local models | Planned |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Engineering Roadmap
 
@@ -84,7 +84,7 @@ graph LR
     F --> G[Deployed system with metrics]
 ```
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Open Source
 
@@ -105,7 +105,7 @@ graph LR
 
 Contribution plan: first documentation fix, then a bug fix in a library used in my projects, then a feature PR.
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Contact
 
