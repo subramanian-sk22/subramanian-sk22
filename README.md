@@ -6,9 +6,9 @@
 
 <img src="img//header.gif" width="100%" alt="SUBRAMANIAN KARTHIKEYAN — AI/ML & Data Science Engineer">
 
-<h1>SUBRAMANIAN KARTHIKEYAN</h1>
+<h1>SUBRAMANIAN K</h1>
 
-<h3>Student · AI/ML · Data Science · Software Engineering</h3>
+<h3>Student · AI/ML · Data Science · Automation · R&D </h3>
 
 <p>
   <em>Curious by nature, practical by design — I learn by building things that solve real problems.</em><br>
@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td align="right"><b>🎯 Focus</b></td>
-    <td align="left">AI/ML · Data Science · Intelligent Applications</td>
+    <td align="left">AI/ML · Data Science · Intelligent Applications · Automation · R&D  </td>
   </tr>
   <tr>
     <td align="right"><b>🔨 Building</b></td>
@@ -67,7 +67,7 @@
 
 👋 About Me
 
-I'm Subramanian Karthikeyan, a student and technology enthusiast focused on AI/ML, Data Science and software development.
+I'm Subramanian K, a student and technology enthusiast focused on AI/ML, Data Science , Automation , software development and Research and development (R&D).
 
 I enjoy taking a problem from an idea on paper to something that can actually run — experimenting with models, writing Python, working with data, and turning technical concepts into usable projects.
 
