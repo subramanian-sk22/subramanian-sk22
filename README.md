@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="[SUBRAMANIAN] — [STUDENT]" width="100%">
+<img src="banner.svg" alt="[SUBRAMANIAN] — [STUDENT]" width="100%">
 
 <h1>[Subramanian]</h1>
 
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 </div>
 
@@ -75,7 +75,7 @@ I'm [YOUR_NAME], a [YOUR_ROLE] who likes turning messy, repetitive problems into
 - 🧩 **Problems I enjoy:** [PROBLEM_TYPE_1], [PROBLEM_TYPE_2]
 - 📖 **Outside code:** [HOBBY_OR_INTEREST]
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="divider.svg" width="100%" alt=""></div>
 
 <a id="building"></a>
 
@@ -190,7 +190,7 @@ I'm [YOUR_NAME], a [YOUR_ROLE] who likes turning messy, repetitive problems into
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="divider.svg" width="100%" alt=""></div>
 
 <a id="featured"></a>
 
@@ -237,7 +237,7 @@ I'm [YOUR_NAME], a [YOUR_ROLE] who likes turning messy, repetitive problems into
 
 <a href="[PROJECT_3_URL]"><img src="https://img.shields.io/badge/GitHub-Repo-0d1117?style=for-the-badge&logo=github" alt="GitHub repo"></a>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="divider.svg" width="100%" alt=""></div>
 
 ## 🏆 Achievements
 
@@ -252,7 +252,7 @@ I'm [YOUR_NAME], a [YOUR_ROLE] who likes turning messy, repetitive problems into
 | ⭐ **Open source** | [PR/CONTRIBUTION] to [PROJECT] — [link]([PR_URL]) |
 | 📌 **Highlights** | [ACHIEVEMENT_WITH_REAL_OUTCOME] |
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="divider.svg" width="100%" alt=""></div>
 
 ## 🌱 Current Learning
 
@@ -266,7 +266,7 @@ A roadmap, not a scoreboard — each topic sits at the stage I'm actually at.
 | [TOPIC_2] | 🔨 Practicing | [WHY] |
 | [TOPIC_3] | 🌱 Exploring | [WHY] |
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="divider.svg" width="100%" alt=""></div>
 
 ## 🧭 Philosophy
 
@@ -352,6 +352,6 @@ Open-source collaboration · Project collaboration · Freelance work · Research
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="[FOOTER_TAGLINE]">
+<img src="footer.svg" width="100%" alt="[FOOTER_TAGLINE]">
 
 </div>
