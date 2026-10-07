@@ -2,52 +2,27 @@
 
 <a href="https://github.com/subramanian-sk22"><img src="assets/hero.svg" alt="Subramanian K: AI systems, backend engineering, system architecture" width="100%"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=860&lines=Model+training+%2B+evaluation;Backend+services+%2B+API+contracts;Architecture+with+documented+trade-offs;Local+LLM+inference+inside+a+security+boundary" alt="Focus areas"/>
-
-[Capabilities](#engineering-capabilities) · [AI Stack](#ai-stack) · [Architectures](#system-architectures) · [Projects](#projects) · [Research](#research) · [Roadmap](#engineering-roadmap) · [Open Source](#open-source) · [Contact](#contact)
-
-<img src="https://komarev.com/ghpvc/?username=subramanian-sk22&label=Visitors&color=06b6d4&style=flat-square" alt="Visitors"/>
-<img src="https://img.shields.io/github/followers/subramanian-sk22?style=flat-square&color=06b6d4&labelColor=0f172a" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/subramanian-sk22?style=flat-square&color=06b6d4&labelColor=0f172a" alt="Stars"/>
+[Capabilities](#capabilities) · [AI Stack](#ai-stack) · [Architecture](#architecture) · [Projects](#projects) · [Research](#research) · [Roadmap](#roadmap) · [Open Source](#open-source) · [Contact](#contact)
 
 </div>
 
-<img src="divider.svg" width="100%" alt=""/>
+## Capabilities
 
-## Engineering Capabilities
-
-<img src="capabilities.svg" width="100%" alt="AI/ML, backend, architecture, automation"/>
-
-<img src="divider.svg" width="100%" alt=""/>
+<img src="assets/capabilities.svg" width="100%" alt="AI/ML, backend, architecture, automation"/>
 
 ## AI Stack
 
-<img src="ai-stack.svg" width="100%" alt="Layered AI stack with status per layer"/>
+<img src="assets/ai-stack.svg" width="100%" alt="Layered AI stack with status per layer"/>
 
-<div align="center">
+## Architecture
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,opencv,azure,docker,git,github,linux" alt="Tools"/>
-
-</div>
-
-<img src="divider.svg" width="100%" alt=""/>
-
-## System Architectures
-
-<img src="architecture.svg" width="100%" alt="Hospital ERP reference architecture"/>
-
-<details>
-<summary><b>Design decisions and trade-offs</b></summary>
+<img src="assets/architecture.svg" width="100%" alt="Hospital ERP reference architecture"/>
 
 | Decision | Rationale | Trade-off |
 |---|---|---|
-| Local LLM inference (Ollama) | Patient data never leaves the boundary | Lower model quality and higher hardware cost than hosted APIs |
-| Separate frontend and backend repos | Independent release cadence, clear API contract | Contract drift unless versioned and tested |
-| Capacity target under 1,000 users | A modular monolith suffices | Revisit if concurrency or tenancy grows |
-
-</details>
-
-<img src="divider.svg" width="100%" alt=""/>
+| Local LLM inference (Ollama) | Patient data stays inside the boundary | Lower model quality and higher hardware cost than hosted APIs |
+| Separate frontend and backend repositories | Independent releases, explicit API contract | Contract drift unless versioned and tested |
+| Capacity target under 1,000 users | A modular monolith is sufficient | Revisit if concurrency or tenancy grows |
 
 ## Projects
 
@@ -57,22 +32,14 @@
 | **Handwriting Recognition CNN** | Training and tuning, target 80%+ test accuracy | Data pipeline, augmentation, evaluation methodology |
 | **Video Editing Automation** | Requirements gathering | Replacing manual edit steps with a repeatable pipeline |
 
-> Repository links are added per project as each repo goes public.
-
-<img src="divider.svg" width="100%" alt=""/>
-
 ## Research
-
-Experiment log format: question, method, result. Entries are added only when a result exists.
 
 | Question | Method | Result |
 |---|---|---|
 | What accuracy ceiling does a small CNN reach on the handwriting set? | Baseline, then augmentation and regularization sweeps | In progress |
-| What does local inference cost in latency and quality versus hosted models? | Benchmark a fixed prompt set on local models | Planned |
+| What does local inference cost in latency and quality versus hosted models? | Fixed prompt benchmark on local models | Planned |
 
-<img src="divider.svg" width="100%" alt=""/>
-
-## Engineering Roadmap
+## Roadmap
 
 ```mermaid
 graph LR
@@ -84,28 +51,12 @@ graph LR
     F --> G[Deployed system with metrics]
 ```
 
-<img src="divider.svg" width="100%" alt=""/>
-
 ## Open Source
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subramanian-sk22/subramanian-sk22/output/github-snake-dark.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/subramanian-sk22/subramanian-sk22/output/github-snake.svg" width="100%"/>
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/subramanian-sk22/subramanian-sk22/output/github-snake.svg" width="100%"/>
 </picture>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subramanian-sk22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=subramanian-sk22&theme=tokyonight&hide_border=true" alt="Streak"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subramanian-sk22&layout=compact&theme=tokyonight&hide_border=true" alt="Languages"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=subramanian-sk22&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies"/>
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=subramanian-sk22&theme=tokyo-night&hide_border=true&area=true" alt="Activity"/>
-
-</div>
-
-Contribution plan: first documentation fix, then a bug fix in a library used in my projects, then a feature PR.
-
-<img src="divider.svg" width="100%" alt=""/>
 
 ## Contact
 
@@ -115,441 +66,4 @@ Contribution plan: first documentation fix, then a bug fix in a library used in 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6d28d9,100:020617&height=120&section=footer" width="100%" alt=""/>
-
-</div>  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=06b6d4&labelColor=0f172a" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=06b6d4&labelColor=0f172a" alt="GitHub stars" />
-</p>
-
-<br />
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-## 👋 About Me
-
-I am an **AI Engineer in progress** focused on building reliable, production-style systems using **Machine Learning, Deep Learning, LLMs, AI Agents, Backend Engineering, and MLOps**.
-
-My goal is to design, build, deploy, monitor, and scale intelligent applications that solve real-world problems — not just demos.
-
-```txt
-AI Engineer in progress
-Backend systems thinker
-LLM, RAG, and agent builder
-Focused on production-grade engineering
-```
-
-</td>
-<td width="45%" valign="top">
-
-## 🎯 Current Direction
-
-```yaml
-Primary Focus:
-  - AI Agents and Automation
-  - RAG and LLM Applications
-  - Backend APIs and Databases
-  - Production ML Systems
-  - System Design and MLOps
-
-Engineering Values:
-  - Reliability
-  - Clean Architecture
-  - Observability
-  - Security
-  - Continuous Shipping
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Engineering Focus
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center">
-
-### 🤖 AI Systems
-
-ML/DL  
-LLMs  
-RAG  
-Agents  
-Embeddings  
-Evaluation
-
-</td>
-<td width="25%" valign="top" align="center">
-
-### ⚙️ Backend
-
-REST APIs  
-FastAPI  
-Node.js  
-Auth  
-Caching  
-Microservices
-
-</td>
-<td width="25%" valign="top" align="center">
-
-### 🗄️ Data
-
-PostgreSQL  
-MongoDB  
-Redis  
-Vector DBs  
-Pipelines  
-Analytics
-
-</td>
-<td width="25%" valign="top" align="center">
-
-### 🚀 MLOps
-
-Docker  
-CI/CD  
-Serving  
-Monitoring  
-Logging  
-Cloud
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp" alt="Languages" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
-
-### AI / ML / Data Science
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv" alt="AI ML stack" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="RAG" />
-
-### Backend, Databases & DevOps
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask,postgres,mongodb,mysql,redis,sqlite,docker,kubernetes,linux,git,github,githubactions,aws,gcp,vscode,postman" alt="Backend database devops stack" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-<img src="https://img.shields.io/badge/System_Design-6D28D9?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
-<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-<img src="https://img.shields.io/badge/Monitoring-DC2626?style=for-the-badge&logo=prometheus&logoColor=white" alt="Monitoring" />
-<img src="https://img.shields.io/badge/Vector_DB-059669?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Database" />
-
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Agent Automation Platform
-
-A production-style agent system that uses LLMs, tools, APIs, memory, and workflow orchestration to complete multi-step tasks.
-
-**Tech:** Python · FastAPI · LangGraph · PostgreSQL · Redis · Docker  
-**Focus:** Tool calling · Planning · Memory · Observability · Evaluation
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-agent-automation-platform">
-  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 RAG Knowledge Assistant
-
-A document-grounded AI assistant that answers from PDFs, notes, and private knowledge bases using retrieval-augmented generation.
-
-**Tech:** Python · FastAPI · Vector DB · Embeddings · LLMs · Docker  
-**Focus:** Ingestion · Chunking · Semantic Search · Citations · Evaluation
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/rag-knowledge-assistant">
-  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ ML Model Serving API
-
-A clean REST API for serving ML predictions with validation, logging, versioning, and Dockerized deployment.
-
-**Tech:** Python · Scikit-learn · FastAPI · Pydantic · Docker · PostgreSQL  
-**Focus:** Model serving · Input validation · Versioning · API documentation
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ml-model-serving-api">
-  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 AI Research Assistant
-
-An AI assistant for summarizing papers, extracting concepts, comparing methods, and generating structured study notes.
-
-**Tech:** LLMs · RAG · Python · FastAPI · Streamlit · Vector DB  
-**Focus:** Paper analysis · Method comparison · Notes · Research workflows
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-research-assistant">
-  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 LeetCode & Problem Solving
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 DSA Practice
-
-```txt
-Core Topics:
-Arrays · Strings · Hashing · Two Pointers
-Stacks · Queues · Trees · Graphs
-Dynamic Programming · Greedy · Backtracking
-Binary Search · Sliding Window · Heaps
-```
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
-    alt="GitHub stats"
-  />
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-  <img
-    width="49%"
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=3"
-    alt="GitHub trophies"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution graph"
-  />
-</p>
-
----
-
-## 🏗️ AI Engineering Roadmap
-
-```mermaid
-graph LR;
-    A[Python] --> B[DSA]
-    B --> C[Backend APIs]
-    C --> D[Databases]
-    D --> E[System Design]
-    E --> F[Machine Learning]
-    F --> G[Deep Learning]
-    G --> H[Transformers]
-    H --> I[LLM Apps]
-    I --> J[RAG]
-    J --> K[AI Agents]
-    K --> L[MLOps]
-    L --> M[Production AI Systems]
-```
-
----
-
-## 📌 Portfolio Strategy
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Must-Have Repos
-
-- AI Agent Platform
-- RAG Assistant
-- ML Serving API
-- Backend API System
-- Data Science Portfolio
-- System Design Notes
-
-</td>
-<td width="33%" valign="top">
-
-### Every Repo Should Have
-
-- Architecture diagram
-- Setup instructions
-- API documentation
-- Environment variables
-- Docker support
-- Test instructions
-- Production notes
-
-</td>
-<td width="33%" valign="top">
-
-### What It Proves
-
-- Engineering maturity
-- System design thinking
-- Deployment ability
-- Clean code habits
-- Problem solving
-- Real-world readiness
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Open To Collaborate On
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_Agents-06B6D4?style=for-the-badge" alt="AI Agents" />
-<img src="https://img.shields.io/badge/RAG_Systems-7C3AED?style=for-the-badge" alt="RAG Systems" />
-<img src="https://img.shields.io/badge/LLM_Apps-DB2777?style=for-the-badge" alt="LLM Apps" />
-<img src="https://img.shields.io/badge/Backend_APIs-059669?style=for-the-badge" alt="Backend APIs" />
-<img src="https://img.shields.io/badge/MLOps-F97316?style=for-the-badge" alt="MLOps" />
-<img src="https://img.shields.io/badge/Open_Source-0F172A?style=for-the-badge" alt="Open Source" />
-
-</div>
-
-<br />
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### Build
-
-AI products, APIs, automations, and practical tools.
-
-</td>
-<td align="center" width="33%">
-
-### Learn
-
-System design, AI engineering, MLOps, and scalable architecture.
-
-</td>
-<td align="center" width="33%">
-
-### Ship
-
-Useful projects publicly with documentation and deployment.
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ Developer Mindset
-
-```txt
-Learn deeply. Build consistently. Ship publicly.
-Think in systems. Measure tradeoffs. Solve real problems.
-```
-
-> Great engineers do not just write code.  
-> They understand systems, design tradeoffs, solve problems, and build things that last.
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile. Let's build something useful.</b>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f766e,100:020617&height=150&section=footer"
-    alt="Footer"
-  />
-</p>
