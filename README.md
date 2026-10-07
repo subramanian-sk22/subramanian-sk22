@@ -1,43 +1,123 @@
-<!-- ========================================================= -->
-<!--                  SUBRAMANIAN K | GITHUB PROFILE        -->
-<!--       AI Engineer • Backend Developer • Agent Builder      -->
-<!-- ========================================================= -->
+<div align="center">
 
-<!-- Replace these placeholders before publishing:
-  YOUR_GITHUB_USERNAME
-  YOUR_LEETCODE_USERNAME
-  YOUR_LINKEDIN_USERNAME
-  YOUR_PORTFOLIO_LINK
-  YOUR_EMAIL
--->
+<a href="https://github.com/subramanian-sk22"><img src="assets/hero.svg" alt="Subramanian K: AI systems, backend engineering, system architecture" width="100%"/></a>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f766e,100:06b6d4&height=245&section=header&text=Siva%20Subramanian&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Agentic%20Automation%20Builder&descAlignY=56&descSize=18"
-    alt="Subramanian K  header"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=860&lines=Model+training+%2B+evaluation;Backend+services+%2B+API+contracts;Architecture+with+documented+trade-offs;Local+LLM+inference+inside+a+security+boundary" alt="Focus areas"/>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Automation;Backend+APIs+%7C+Databases+%7C+MLOps;Learning+Deeply+%E2%80%A2+Building+Consistently+%E2%80%A2+Shipping+Publicly"
-    alt="Typing SVG"
-  />
-</p>
+[Capabilities](#engineering-capabilities) · [AI Stack](#ai-stack) · [Architectures](#system-architectures) · [Projects](#projects) · [Research](#research) · [Roadmap](#engineering-roadmap) · [Open Source](#open-source) · [Contact](#contact)
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=subramanian-sk22&label=Visitors&color=06b6d4&style=flat-square" alt="Visitors"/>
+<img src="https://img.shields.io/github/followers/subramanian-sk22?style=flat-square&color=06b6d4&labelColor=0f172a" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/subramanian-sk22?style=flat-square&color=06b6d4&labelColor=0f172a" alt="Stars"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## Engineering Capabilities
+
+<img src="assets/capabilities.svg" width="100%" alt="AI/ML, backend, architecture, automation"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## AI Stack
+
+<img src="assets/ai-stack.svg" width="100%" alt="Layered AI stack with status per layer"/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,opencv,azure,docker,git,github,linux" alt="Tools"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## System Architectures
+
+<img src="assets/architecture.svg" width="100%" alt="Hospital ERP reference architecture"/>
+
+<details>
+<summary><b>Design decisions and trade-offs</b></summary>
+
+| Decision | Rationale | Trade-off |
+|---|---|---|
+| Local LLM inference (Ollama) | Patient data never leaves the boundary | Lower model quality and higher hardware cost than hosted APIs |
+| Separate frontend and backend repos | Independent release cadence, clear API contract | Contract drift unless versioned and tested |
+| Capacity target under 1,000 users | A modular monolith suffices | Revisit if concurrency or tenancy grows |
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## Projects
+
+| Project | Status | Engineering focus |
+|---|---|---|
+| **Hospital ERP / HIS** | Architecture phase, team of 3 | Azure topology, local LLM service, API contracts, access control |
+| **Handwriting Recognition CNN** | Training and tuning, target 80%+ test accuracy | Data pipeline, augmentation, evaluation methodology |
+| **Video Editing Automation** | Requirements gathering | Replacing manual edit steps with a repeatable pipeline |
+
+> Repository links are added per project as each repo goes public.
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## Research
+
+Experiment log format: question, method, result. Entries are added only when a result exists.
+
+| Question | Method | Result |
+|---|---|---|
+| What accuracy ceiling does a small CNN reach on the handwriting set? | Baseline, then augmentation and regularization sweeps | In progress |
+| What does local inference cost in latency and quality versus hosted models? | Benchmark a fixed prompt set on local models | Planned |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## Engineering Roadmap
+
+```mermaid
+graph LR
+    A[CNN fundamentals] --> B[Evaluation rigor]
+    B --> C[Backend service design]
+    C --> D[Local LLM serving]
+    D --> E[Retrieval and agent workflows]
+    E --> F[Observability and CI/CD]
+    F --> G[Deployed system with metrics]
+```
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## Open Source
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subramanian-sk22/subramanian-sk22/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/subramanian-sk22/subramanian-sk22/output/github-snake.svg" width="100%"/>
+</picture>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subramanian-sk22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=subramanian-sk22&theme=tokyonight&hide_border=true" alt="Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subramanian-sk22&layout=compact&theme=tokyonight&hide_border=true" alt="Languages"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=subramanian-sk22&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=subramanian-sk22&theme=tokyo-night&hide_border=true&area=true" alt="Activity"/>
+
+</div>
+
+Contribution plan: first documentation fix, then a bug fix in a library used in my projects, then a feature PR.
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## Contact
+
+<div align="center">
+
+<a href="https://github.com/subramanian-sk22"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6d28d9,100:020617&height=120&section=footer" width="100%" alt=""/>
+
+</div>  </a>
 </p>
 
 <p align="center">
