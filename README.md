@@ -12,17 +12,17 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Engineering Capabilities
 
-<img src="assets/capabilities.svg" width="100%" alt="AI/ML, backend, architecture, automation"/>
+<img src="capabilities.svg" width="100%" alt="AI/ML, backend, architecture, automation"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## AI Stack
 
-<img src="assets/ai-stack.svg" width="100%" alt="Layered AI stack with status per layer"/>
+<img src="ai-stack.svg" width="100%" alt="Layered AI stack with status per layer"/>
 
 <div align="center">
 
@@ -30,11 +30,11 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## System Architectures
 
-<img src="assets/architecture.svg" width="100%" alt="Hospital ERP reference architecture"/>
+<img src="architecture.svg" width="100%" alt="Hospital ERP reference architecture"/>
 
 <details>
 <summary><b>Design decisions and trade-offs</b></summary>
@@ -47,7 +47,7 @@
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Projects
 
