@@ -7,11 +7,11 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="[YOUR_NAME] — [YOUR_ROLE]" width="100%">
+<img src="assets/banner.svg" alt="[SUBRAMANIAN] — [STUDENT]" width="100%">
 
-<h1>[YOUR_NAME]</h1>
+<h1>[Subramanian]</h1>
 
-<h3>[YOUR_ROLE] &nbsp;·&nbsp; [YOUR_SPECIALIZATION]</h3>
+<h3>[STUDENT] &nbsp;·&nbsp; [AI/ML/DA ENGINEER ]</h3>
 
 <p>
   <em>[YOUR_TAGLINE — one sentence, first person, no buzzwords]</em><br>
