@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- Replace this file with your preferred animated header GIF:
-     img/header.gif
--->
-
-<img src="img/header.gif" width="100%" alt="SUBRAMANIAN KARTHIKEYAN — AI/ML & Data Science Engineer">
+<img src="img/profile-banner.svg" width="100%" alt="Abstract blue and violet technology banner">
 
 <h1>SUBRAMANIAN K</h1>
 
-<h3>Student · AI/ML · Data Science · Automation · R&D </h3>
+<h3>Student · AI/ML · Data Science · Automation · R&amp;D</h3>
 
 <p>
   <em>Curious by nature, practical by design — I learn by building things that solve real problems.</em><br>
-  I turn ideas, data and experiments into useful software.
+  I turn ideas, data, and experiments into useful software.
 </p>
 
 <p>
@@ -59,33 +55,33 @@
   </tr>
 </table>
 
-<img src="img//divider.svg" width="100%" alt="">
+<img src="img/divider.svg" width="100%" alt="">
 
 </div>
 
 <a id="about"></a>
 
-👋 About Me
+## 👋 About Me
 
-I'm Subramanian K, a student and technology enthusiast focused on AI/ML, Data Science , Automation , software development and Research and development (R&D).
+I'm Subramanian K, a student and technology enthusiast focused on AI/ML, data science, automation, software development, and research and development.
 
 I enjoy taking a problem from an idea on paper to something that can actually run — experimenting with models, writing Python, working with data, and turning technical concepts into usable projects.
 
-🧠 Interested in: Artificial Intelligence, Machine Learning, Computer Vision and Data Science
+🧠 Interested in: artificial intelligence, machine learning, computer vision, and data science
 
 🐍 Primary language: Python
 
-🔬 Learning through: Projects, experiments and hands-on development
+🔬 Learning through: projects, experiments, and hands-on development
 
 ⚙️ Building toward: Intelligent applications and practical automation
 
 🚀 Mindset: Learn → Build → Test → Improve
 
-<div align="center"><img src="img//divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="img/divider.svg" width="100%" alt=""></div>
 
 <a id="building"></a>
 
-🚀 Currently Building
+## 🚀 Currently Building
 
 <table>
   <tr>
@@ -110,41 +106,37 @@ Focus — Python · APIs · Intelligent workflows
   </tr>
 </table>
 
-<div align="center"><img src="img//divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="img/divider.svg" width="100%" alt=""></div>
 
 <a id="stack"></a>
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-
-
-
-
-Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=py,js,java,cpp&theme=dark" alt="Languages">
 
-AI / ML
+**AI / ML**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI and ML">
 
-Web / Backend
+**Web / Backend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,fastapi,django&theme=dark" alt="Web and Backend">
 
-Databases
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases">
 
-Dev Tools
+**Developer Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Developer Tools">
 
-<div align="center"><img src="img//divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="img/divider.svg" width="100%" alt=""></div>
 
 <a id="activity"></a>
 
-📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -177,7 +169,7 @@ Dev Tools
 
 </details>
 
-🐍 Contribution Flow
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -191,11 +183,11 @@ Dev Tools
 
 </div>
 
-<div align="center"><img src="img//divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="img/divider.svg" width="100%" alt=""></div>
 
 <a id="projects"></a>
 
-⭐ Projects
+## ⭐ Projects
 
 A growing collection of experiments, applications and ideas built while learning.
 
@@ -207,23 +199,29 @@ A growing collection of experiments, applications and ideas built while learning
 
 </div>
 
-🔍 What I Build Around
+### 🔍 Areas of Interest
 
-AI / ML
- ├── Model experiments
- ├── Computer vision
- ├── Image & pattern recognition
- └── Deep learning
+**AI / ML**
 
-Software
- ├── Python applications
- ├── Automation
- ├── APIs & backend systems
- └── Practical developer tools
+```text
+Model experiments
+Computer vision
+Image and pattern recognition
+Deep learning
+```
 
-<div align="center"><img src="img//divider.svg" width="100%" alt=""></div>
+**Software**
 
-🏆 Achievements
+```text
+Python applications
+Automation
+APIs and backend systems
+Practical developer tools
+```
+
+<div align="center"><img src="img/divider.svg" width="100%" alt=""></div>
+
+## 🏆 Highlights
 
 Keeping this section focused on verifiable achievements rather than placeholder claims.
 
@@ -233,47 +231,22 @@ Keeping this section focused on verifiable achievements rather than placeholder 
 
 🚀 Project-driven development — learning technologies by building and experimenting
 
-<div align="center"><img src="img//divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="img/divider.svg" width="100%" alt=""></div>
 
-🌱 Current Learning
+## 🌱 Current Learning
 
 A roadmap, not a scoreboard.
 
-🌱 Exploring → 🔨 Practicing → 🚢 Building
+| Topic | Stage | Current direction |
+| --- | --- | --- |
+| Machine learning | Building | Practical model development |
+| Deep learning | Practicing | Neural networks and computer vision |
+| LLMs and AI | Exploring | Modern AI applications and local models |
+| Automation | Practicing | Intelligent workflows and developer tools |
 
-Topic
+<div align="center"><img src="img/divider.svg" width="100%" alt=""></div>
 
-Stage
-
-Direction
-
-Machine Learning
-
-🚢 Building
-
-Practical model development
-
-Deep Learning
-
-🔨 Practicing
-
-Neural networks and computer vision
-
-LLMs & AI
-
-🌱 Exploring
-
-Modern AI applications and local models
-
-Automation
-
-🔨 Practicing
-
-Intelligent workflows and developer tools
-
-<div align="center"><img src="img//divider.svg" width="100%" alt=""></div>
-
-🧭 Philosophy
+## 🧭 Philosophy
 
 <div align="center">
 
@@ -285,7 +258,7 @@ Stay curious. Build useful things. Learn from every iteration.
 
 <a id="faq"></a>
 
-💡 FAQ
+## 💡 FAQ
 
 <details>
 <summary><b>What am I working on right now?</b></summary>
@@ -330,7 +303,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/subramanian-sk/">Subramanian SK</
 
 <a id="connect"></a>
 
-🔗 Connect
+## 🔗 Connect
 
 <div align="center">
 
@@ -344,7 +317,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/subramanian-sk/">Subramanian SK</
 
 </div>
 
-🤝 Open to
+### 🤝 Open to
 
 <div align="center">
 <sub>
@@ -356,10 +329,8 @@ AI/ML collaboration · Software projects · Automation · Open source · Hackath
 
 <div align="center">
 
-<img src="img//footer.svg" width="100%" alt="Keep building">
-
 <br><br>
 
-<sub>Learning is my cravings · Built with curiosity, code and continuous improvement.</sub>
+<sub>Learning is my passion · Built with curiosity, code and continuous improvement.</sub>
 
 </div>
