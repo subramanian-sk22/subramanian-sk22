@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title">
+  <title id="title">Abstract technology banner in blue and violet</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07111f"/>
+      <stop offset="1" stop-color="#17143a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22d3ee"/>
+      <stop offset=".55" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0v32" fill="none" stroke="#94a3b8" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="240" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="240" rx="20" fill="url(#grid)"/>
+  <path d="M0 210h300l40-40h130l48-48h115m567-55h-130l-55 55h-98l-45 45h-90"
+        fill="none" stroke="url(#accent)" stroke-opacity=".7" stroke-width="2"/>
+  <path d="M0 225h270l40-40h110m780-145h-95l-48 48h-80"
+        fill="none" stroke="#22d3ee" stroke-opacity=".35" stroke-width="1"/>
+  <g fill="#a5f3fc">
+    <circle cx="300" cy="210" r="4"/>
+    <circle cx="518" cy="122" r="4"/>
+    <circle cx="708" cy="162" r="4"/>
+    <circle cx="950" cy="67" r="4"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="238" rx="19" fill="none"
+        stroke="#cbd5e1" stroke-opacity=".15"/>
+  <path d="M40 20h180" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+</svg>
