@@ -4,7 +4,7 @@
      img/header.gif
 -->
 
-<img src="img/header2.gif" width="100%" alt="SUBRAMANIAN KARTHIKEYAN — AI/ML & Data Science Engineer">
+<img src="header2.gif" width="100%" alt="SUBRAMANIAN KARTHIKEYAN — AI/ML & Data Science Engineer">
 
 <h1>SUBRAMANIAN K</h1>
 
