@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/profile-banner.svg" width="100%" alt="Abstract blue and violet technology banner">
+<img src="img/header.gif" width="100%" alt="Abstract blue and violet technology banner">
 
 <h1>SUBRAMANIAN K</h1>
 
