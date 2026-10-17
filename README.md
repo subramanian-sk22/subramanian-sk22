@@ -179,7 +179,7 @@ Focus — Python · APIs · Intelligent workflows
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/subramanian-sk22/subramanian-sk22/output/github-snake-dark.svg" width="100%">
 </picture>
 
-<img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=subramanian-sk22&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true">
+<p><a href="https://github.com/subramanian-sk22">View my contribution activity on GitHub</a></p>
 
 </div>
 
